@@ -1,0 +1,155 @@
+[
+  {
+    "file": "s21_insert.c",
+    "arguments": [
+      "gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c11",
+      "-I.",
+      "-c",
+      "s21_insert.c",
+      "-o",
+      "s21_insert.o"
+    ],
+    "directory": "/Users/nikitakaducenko/C3_s21_stringplus.ID_395950-Team_TL_buckbewr.418f1455_00d6_4200-2/src",
+    "output": "s21_insert.o"
+  },
+  {
+    "file": "s21_sprintf.c",
+    "arguments": [
+      "gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c11",
+      "-I.",
+      "-c",
+      "s21_sprintf.c",
+      "-o",
+      "s21_sprintf.o"
+    ],
+    "directory": "/Users/nikitakaducenko/C3_s21_stringplus.ID_395950-Team_TL_buckbewr.418f1455_00d6_4200-2/src",
+    "output": "s21_sprintf.o"
+  },
+  {
+    "file": "s21_strerror.c",
+    "arguments": [
+      "gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c11",
+      "-I.",
+      "-c",
+      "s21_strerror.c",
+      "-o",
+      "s21_strerror.o"
+    ],
+    "directory": "/Users/nikitakaducenko/C3_s21_stringplus.ID_395950-Team_TL_buckbewr.418f1455_00d6_4200-2/src",
+    "output": "s21_strerror.o"
+  },
+  {
+    "file": "s21_string_base.c",
+    "arguments": [
+      "gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c11",
+      "-I.",
+      "-c",
+      "s21_string_base.c",
+      "-o",
+      "s21_string_base.o"
+    ],
+    "directory": "/Users/nikitakaducenko/C3_s21_stringplus.ID_395950-Team_TL_buckbewr.418f1455_00d6_4200-2/src",
+    "output": "s21_string_base.o"
+  },
+  {
+    "file": "s21_strmem.c",
+    "arguments": [
+      "gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c11",
+      "-I.",
+      "-c",
+      "s21_strmem.c",
+      "-o",
+      "s21_strmem.o"
+    ],
+    "directory": "/Users/nikitakaducenko/C3_s21_stringplus.ID_395950-Team_TL_buckbewr.418f1455_00d6_4200-2/src",
+    "output": "s21_strmem.o"
+  },
+  {
+    "file": "s21_to_lower.c",
+    "arguments": [
+      "gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c11",
+      "-I.",
+      "-c",
+      "s21_to_lower.c",
+      "-o",
+      "s21_to_lower.o"
+    ],
+    "directory": "/Users/nikitakaducenko/C3_s21_stringplus.ID_395950-Team_TL_buckbewr.418f1455_00d6_4200-2/src",
+    "output": "s21_to_lower.o"
+  },
+  {
+    "file": "s21_to_upper.c",
+    "arguments": [
+      "gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c11",
+      "-I.",
+      "-c",
+      "s21_to_upper.c",
+      "-o",
+      "s21_to_upper.o"
+    ],
+    "directory": "/Users/nikitakaducenko/C3_s21_stringplus.ID_395950-Team_TL_buckbewr.418f1455_00d6_4200-2/src",
+    "output": "s21_to_upper.o"
+  },
+  {
+    "file": "s21_trim.c",
+    "arguments": [
+      "gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c11",
+      "-I.",
+      "-c",
+      "s21_trim.c",
+      "-o",
+      "s21_trim.o"
+    ],
+    "directory": "/Users/nikitakaducenko/C3_s21_stringplus.ID_395950-Team_TL_buckbewr.418f1455_00d6_4200-2/src",
+    "output": "s21_trim.o"
+  },
+  {
+    "file": "tests/test_s21_string.c",
+    "arguments": [
+      "gcc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c11",
+      "-I.",
+      "tests/test_s21_string.c",
+      "s21_string.a",
+      "-o",
+      "s21_tests"
+    ],
+    "directory": "/Users/nikitakaducenko/C3_s21_stringplus.ID_395950-Team_TL_buckbewr.418f1455_00d6_4200-2/src",
+    "output": "s21_tests"
+  }
+]
